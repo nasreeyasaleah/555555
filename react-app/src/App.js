@@ -97,7 +97,7 @@ function App() {
           return (
             <div className="employee card">
               <div className="card-body text-left">
-                <p className="card-text">Username: {val.fname}</p>
+                <p className="card-text">UsernameS: {val.fname}</p>
                 <p className="card-text">Email: {val.lname}</p>
                 <p className="card-text">password: {val.password}</p>
                
